@@ -45,7 +45,7 @@ export default {
             text: "Reece is a very creative, and well-behaved student. He does enjoy working with his classmates and works well on his project. He has gained a-lot of knowledge of web development, including Bootstrap 5. I will be very delighted to see him get hired."
           },
           {
-            title: "Margo Simon",
+            title: "Mkhuseli Mkeyiya",
             image: "https://i.postimg.cc/Kv1pkJzt/DSC-3531.jpg",
             text: "Reece is a well articulated young man.  His creative thinking,  reasoning patterns and logic is impressive.  His drive and leadership qualities can only lead to success"
           },

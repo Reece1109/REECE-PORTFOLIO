@@ -10,7 +10,7 @@
           <div class="card-body">
             <h5 class="card-title">{{ project.title }}</h5>
             <a :href="project.gitHub" target="_blank" class="p-1 m-auto">GitHub</a>
-            <a :href="project.netlify" target="_blank" class="p-1 m-auto">Netlify</a>
+            <a :href="project.netlify" target="_blank" class="p-1 m-auto">N</a>
           </div>
         </div>
       </div>
@@ -33,6 +33,18 @@ export default {
   data() {
     return {
       projects: [
+        {
+          title: 'Portfolio',
+          image: 'https://i.postimg.cc/NjJGvgWh/astronaut.gif',
+          gitHub: 'https://github.com/Reece1109/Reece-sPortfolio.git',
+          netlify: 'https://dashing-bublanina-080d8c.netlify.app'
+        },
+        {
+          title: 'BMI Calculator',
+          image: 'https://i.postimg.cc/NjJGvgWh/astronaut.gif',
+          gitHub: 'https://github.com/Reece1109/BMI-Calculator.git',
+          netlify: 'https://dashing-bublanina-080d8c.netlify.app'
+        },~
         {
           title: 'Portfolio',
           image: 'https://i.postimg.cc/NjJGvgWh/astronaut.gif',
