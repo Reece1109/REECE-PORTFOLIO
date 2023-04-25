@@ -46,7 +46,7 @@ export default {
           netlify: 'https://dashing-bublanina-080d8c.netlify.app'
         },~
         {
-          title: 'Portfolio',
+          title: '',
           image: 'https://i.postimg.cc/NjJGvgWh/astronaut.gif',
           gitHub: 'https://github.com/Reece1109/Reece-sPortfolio.git',
           netlify: 'https://dashing-bublanina-080d8c.netlify.app'
